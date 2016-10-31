@@ -1,0 +1,2 @@
+# personaldetailsapp
+details repo
